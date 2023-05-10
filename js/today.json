@@ -1,0 +1,119 @@
+[{
+	"img":"today_1.jpg",
+	"left":"7일남음",
+	"title": "로즈소녀하우스",
+	"subtitle": "베이글버터 무소음 탁상시계",
+	"discount": "24%",
+	"price": "19,900"
+}, {
+	"img":"today_2.jpg",
+	"left":"5일남음",
+	"title": "트루베퍼니처",
+	"subtitle": "EQ등급 감각 800 낮은 수납장",
+	"discount": "54%",
+	"price": "59,900"
+}, {
+	"img":"today_3.jpg",
+	"left":"7일남음",
+	"title": "에이두",
+	"subtitle": "무선 블루투스 스피커 라디오 LED",
+	"discount": "33%",
+	"price": "49,900"
+}, {
+	"img":"today_4.jpg",
+	"left":"6일남음",
+	"title": "MOZEE",
+	"subtitle": "스마트 자동센서 휴지통",
+	"discount": "48%",
+	"price": "39,000"
+},{
+	"img":"arpeggio_1.jpg",
+	"title": "아르페지오",
+	"subtitle": "호텔식 메이딘 순면 이불",
+	"discount": "69%",
+	"price": "4,900"
+}, {
+	"img":"arpeggio_2.jpg",
+	"title": "아르페지오",
+	"subtitle": "고밀도 순면 토퍼",
+	"discount": "69%",
+	"price": "34,900"
+}, {
+	"img":"arpeggio_3.jpg",
+	"title": "아르페지오",
+	"subtitle": "호텔식 베개솜/이불솜",
+	"discount": "60%",
+	"price": "5,900"
+},{
+	"img":"img_1.jpg",
+	"title": "블랑",
+	"subtitle": "틈새활용 화이트 리빙박스",
+	"discount": "33%",
+	"price": "19,900"
+},{
+	"img":"img_2.jpg",
+	"title": "[1+1]진공 압축팩 시리즈",
+	"subtitle": "틈새활용 화이트 리빙박스",
+	"discount": "33%",
+	"price": "7,900"
+},{
+	"img":"img_3.jpg",
+	"title": "메이스",
+	"subtitle": "의류커버 옷비닐",
+	"discount": "69%",
+	"price": "590"
+},{
+	"img":"img_4.jpg",
+	"title": "바탕",
+	"subtitle": "[1+1]패브릭 수납 옷정리함",
+	"discount": "37%",
+	"price": "6,900"
+},{
+	"img":"img_5.jpg",
+	"title": "일루일루",
+	"subtitle": "코모드 올인원 벙커침대",
+	"discount": "20%",
+	"price": "192,000"
+},{
+	"img":"img_6.png",
+	"title": "제니퍼",
+	"subtitle": "라이트 지타이탄 게이밍 체어",
+	"discount": "28%",
+	"price": "71,900"
+},{
+	"img":"img_7.jpg",
+	"title": "동화속나무",
+	"subtitle": "철제수납선반 인테리어책장",
+	"discount": "11%",
+	"price": "79,000"
+},{
+	"img":"img_8.jpg",
+	"title": "린백",
+	"subtitle": "사무용 학생 책상",
+	"discount": "44%",
+	"price": "38,900"
+},{
+	"img":"img_9.jpg",
+	"title": "에꼬드에꼬",
+	"subtitle": "접이식 좌식테이블",
+	"discount": "44%",
+	"price": "38,900"
+},{
+	"img":"img_10.jpg",
+	"title": "린백",
+	"subtitle": "사무용 학생 책상",
+	"discount": "22%",
+	"price": "69,000"
+},{
+	"img":"img_11.jpg",
+	"title": "집드리",
+	"subtitle": "미니가습기 무드등",
+	"discount": "33%",
+	"price": "49,900"
+},{
+	"img":"img_13.jpg",
+	"title": "THE살림",
+	"subtitle": "우드 프레임 행잉 포스터",
+	"discount": "38%",
+	"price": "9,900"
+}]

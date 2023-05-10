@@ -1,0 +1,56 @@
+@charset "utf-8";
+#back {width:100%; height:auto; background-color: rgb(246, 246, 246); padding:200px 0 200px 0px;}
+#wrap {width:900px; height:1600px; margin:0 auto; padding: 0px 10px 10px 20px; background-color:#fff; border-top:5px solid#e44141;}
+#wrap h1 {font-size:33px; font-weight:bold; margin:80px 0 30px 350px; color:#262626;}
+
+#formbox {width:1000px; height:1500px; margin:0 auto;}
+#formbox::placeholder {color:#fff;}
+
+/********TOP********/
+.formbox-top {width:700px; height:420px; float:left; margin:0 0 0 90px; border-bottom:1px solid#d6d6d6; display:block;}
+
+#id {width:600px; height:50px; background-color:none; border:1px solid#bababa; font-weight:bold; float:left; margin:20px 0 0 40px; }
+#password {width:600px; height:50px; background-color:none; border:1px  solid#bababa; font-weight:bold; float:left; margin:20px 0 0 40px;}
+#password-onemore {width:600px; height:50px; background-color:none; border:1px  solid#bababa; font-weight:bold; float:left; margin:20px 0 0 40px;}
+.phone {width:700px; height:60px; float:left; margin:20px 0 0 40px;}
+#phone {width:130px; height:50px;  background-color:none; border:1px  solid#bababa; font-weight:bold; float:left; margin:0 15px 0 0;}
+.phone button {width:130px; height:52px; background-color:#b8b8b8; color:#fff; float:left; border:none; font-weight:900; font-size:13px; margin:0 0 0 20px;}
+
+.varification {width:700px; height:60px; float:left; margin:10px 0 0 40px;}
+#varificationcode {width:430px; height:50px; background-color:none; border:1px  solid#bababa; font-weight:bold; float:left; margin:20px 0 0 0px;}
+.varification button {width:130px; height:52px; background-color:#b8b8b8; color:#fff; float:left; border:none; font-weight:900; font-size:16px; margin:19px 0 0 40px;}
+
+
+
+/********BOTTOM********/
+.formbox-bottom {width:700px; height:500px; float:left; margin:15px 0 0 90px; display:block;}
+.formbox-bottom h3 {font-size:23px; float:left; margin:20px 0 0 40px; font-weight:bold; color: #5c5c5c;}
+
+
+#email {width:350px; height:50px; background-color:none; border:1px  solid#bababa; font-weight:bold; float:left; margin:20px 0 0 40px;}
+#emailservis {width:210px; height:50px; background-color:none; border:1px  solid#bababa; color:#000;  margin:20px 0 0 40px;}
+
+.formbox-bottom p {font-size:16px; font-weight:600; float:left; margin:30px 0 0 40px; color:#5c5c5c; font-weight:bold;}
+#birthday1 {width:150px; height:50px; background-color:none; border:1px  solid#bababa; color:#000; float:left; margin:10px 0 0 50px;}
+#birthday2 {width:150px; height:50px; background-color:none; border:1px  solid#bababa; color:#000; float:left; margin:10px 0 0 20px;}
+#birthday3 {width:150px; height:50px; background-color:none; border:1px  solid#bababa; color:#000; float:left; margin:10px 0 0 20px;}
+
+.gender {width:600px; height:60px; float:left; margin:30px 0 0 40px;}
+.gender a {font-size:16px; color:#5c5c5c; font-weight:bold; float:left; margin:0 35px 0 0;}
+.gender span {float: left;  color: #848484; font-weight:bold; font-size:14px;  margin:3px 10px 0 0;}
+#gender {float:left; margin:3px 10px 0 0;}
+
+.agreements {width:600px; height:280px; border:1px  solid#bababa; float:left; margin:10px 0 0 40px;}
+.agreements-left {width:200px; height:280px; float:left;}
+#all-agreement {margin:130px 10px 0 30px;}
+.agreements-left span {font-size:14px; font-weight:900;}
+
+
+.agreements-right {width:400px; height:280px; float:right;}
+.agreement {margin:0 0 0 30px;}
+.agreements-right span {font-size:11px; margin:0 0 0 10px;}
+.agreement:first-child {margin:40px 0 0 30px;}
+.agreements-right p {font-size:11px; color:red; float:left;}
+.agreements-right button {background-color:none; width:60px; height:20px; font-size:11px;}
+
+.join button {width:300px; height:60px; background-color:rgb(208, 27, 27); color:#fff; font-weight:900; font-size:20px; margin:50px 0 0 200px; border:none;}
